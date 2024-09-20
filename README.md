@@ -1,4 +1,4 @@
-# compDS_iPSC
+# Complement system alteration in iPSC-derived astrocytes from individuals with Down syndrome
 
 The analysis presented here belongs to the paper:
 
